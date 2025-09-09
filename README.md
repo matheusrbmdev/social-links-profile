@@ -1,4 +1,4 @@
-# social-links-profile
+# Social Links Profile
 
 Um card simples e moderno de links para redes sociais. Um desafio proposto pela Frontend Mentor
 
@@ -22,7 +22,7 @@ Esta é uma solução para o [Social Links Profile](https://www.frontendmentor.i
 
 ### Link da página
 
-- Live Siste URL: [Social Links Profile]()
+- Live Siste URL: [Social Links Profile](https://matheusrbmdev.github.io/social-links-profile/)
 
 ## Meu Processo
 

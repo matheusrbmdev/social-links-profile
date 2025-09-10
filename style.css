@@ -6,7 +6,6 @@
   --grey-700: hsl(0, 0%, 20%);
   --grey-800: hsl(0, 0%, 12%);
   --grey-900: hsl(0, 0%, 8%);
-  --grey-hover: hsl(0, 0%, 35%);
 }
 
 * {
@@ -53,7 +52,7 @@ body {
 .card-titulo-perfil {
   color: var(--white);
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   margin-bottom: 10px;
 }
 
@@ -90,8 +89,10 @@ body {
   color: var(--grey-600);
   font-weight: bold;
   font-size: 0.8rem;
+  transition: background-color 0.3s ease;
 }
 
 .link:hover {
-  background-color: var(--grey-hover);
+  background-color: var(--green);
+  color: var(--grey-800);
 }
